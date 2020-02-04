@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51a64706-ed85-402a-b99a-f76afa1affb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/img/audi_electric_080.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cms/cms.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="319">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -31,12 +28,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/AboutPagePreview.js">
+        <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/IndexPagePreview.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="19">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="435">
+                <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -75,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -83,6 +90,17 @@
                 <caret line="26" selection-start-line="26" selection-end-line="26" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/contact/examples.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-103">
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,6 +125,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/pages/about/index.md" />
         <option value="$PROJECT_DIR$/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md" />
+        <option value="$PROJECT_DIR$/src/cms/cms.js" />
+        <option value="$PROJECT_DIR$/src/pages/index.md" />
       </list>
     </option>
   </component>
@@ -145,21 +165,20 @@
               <item name="auto-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="auto-blog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="preview-templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="auto-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="auto-blog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auto-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="auto-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -178,12 +197,6 @@
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="auto-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -192,6 +205,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -226,12 +240,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580849998400</updated>
-      <workItem from="1580849999622" duration="424000" />
+      <workItem from="1580849999622" duration="659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="424000" />
+    <option name="totallyTimeSpent" value="659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -246,7 +260,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -261,15 +275,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cms/cms.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/AboutPagePreview.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -318,6 +323,67 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="754">
             <caret line="26" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/product-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/ProductPagePreview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/contact/examples.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cms/cms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/IndexPagePreview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
           </first_editor>
           <second_editor />
         </state>
